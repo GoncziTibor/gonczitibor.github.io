@@ -1,3 +1,14 @@
 body{
     background-color: gray;
 }
+
+#fodoboz{
+    position: relative;
+    top: 200px;
+    padding-left: 70px;
+}
+
+.lablec{
+    position: relative;
+    bottom: -370px;
+}
