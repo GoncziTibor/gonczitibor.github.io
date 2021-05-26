@@ -1,6 +1,12 @@
 body{
     background-color: gray;
 }
+#doboz{
+    justify-content: center;
+    margin: auto;
+    align-items: center;
+    display: flex;
+}
 
 .focim{
     text-align: center;
