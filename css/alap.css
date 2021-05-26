@@ -1,32 +1,40 @@
 @import url('https://fonts.googleapis.com/css?family=Audiowide|outline|Trirong');
 
 body{
-    background-color: gray;
+    background-image: url(../images/fooldali_hatterkep.gif);
+}
+
+.navbar{
+
 }
 
 #cim{
     font-size: 36px;
-    font-family: 'outline';
-}
-
-.foszoveg{
-    text-align: center;
-    font-size: 22px;
-    font-family: 'Trirong';
+    font-family: 'Audiowide';
+    color: aliceblue;
 }
 
 .focim{
     text-align: center;
     font-family: 'Audiowide';
+    color: aliceblue;
+}
+
+.foszoveg{
+    text-align: center;
+    font-size: 26px;
+    font-family: 'outline';
+    color: aliceblue;
 }
 
 #fodoboz{
     position: relative;
-    top: 200px;
+    top: 120px;
     padding-left: 70px;
 }
 
 .lablec{
     position: relative;
-    bottom: -370px;
+    bottom: -242px;
+    color: aliceblue;
 }
