@@ -1,16 +1,17 @@
 body{
     background-color: gray;
 }
-#doboz{
-    justify-content: center;
-    margin: auto;
-    align-items: center;
-    display: flex;
+
+.foszoveg{
+    text-align: center;
+    font-size: 22px;
+    
 }
 
 .focim{
     text-align: center;
 }
+
 #fodoboz{
     position: relative;
     top: 200px;
