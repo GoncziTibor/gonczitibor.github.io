@@ -1,15 +1,23 @@
+@import url('https://fonts.googleapis.com/css?family=Audiowide|outline|Trirong');
+
 body{
     background-color: gray;
+}
+
+#cim{
+    font-size: 36px;
+    font-family: 'outline';
 }
 
 .foszoveg{
     text-align: center;
     font-size: 22px;
-    
+    font-family: 'Trirong';
 }
 
 .focim{
     text-align: center;
+    font-family: 'Audiowide';
 }
 
 #fodoboz{
