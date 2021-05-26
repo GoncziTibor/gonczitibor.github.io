@@ -2,6 +2,9 @@ body{
     background-color: gray;
 }
 
+.focim{
+    text-align: center;
+}
 #fodoboz{
     position: relative;
     top: 200px;
