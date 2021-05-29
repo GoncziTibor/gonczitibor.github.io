@@ -1,0 +1,8 @@
+<label for="felszereltseg" class="felszereltseglabel">Felszereltség:</label>
+                <select id="felszereltseg">
+                    <option>Basic</option>
+                    <option>Midrange</option>
+                    <option>Full</option>
+                </select><br>
+<label></label>
+                <select id="szin">Szín:</select>
