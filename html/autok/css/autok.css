@@ -66,15 +66,15 @@ h3{
 .markalabel {
     color: rgb(252, 46, 46);
     font-family: 'Audiowide';
-    font-size: 20px;
+    font-size: 30px;
     margin-left: 260px;
-    margin-top: 200px;
+    margin-top: 130px;
 }
 
 #marka {
     border: 3px solid rgb(0, 27, 11);
     background-color: rgb(192, 192, 192);
-    width: 350px;
+    width: 380px;
     height: 40px;
     font-size: 20px;
     color: rgb(252, 46, 46);
@@ -83,15 +83,15 @@ h3{
 .tipuslabel {
     color: rgb(252, 46, 46);
     font-family: 'Audiowide';
-    font-size: 20px;
+    font-size: 30px;
     margin-top: 20px;
-    margin-left: 270px;
+    margin-left: 275px;
 }
 
 #tipus {
     border: 3px solid rgb(0, 27, 11);
     background-color: rgb(192, 192, 192);
-    width: 350px;
+    width: 380px;
     height: 40px;
     font-size: 20px;
     color: rgb(252, 46, 46);
@@ -100,15 +100,15 @@ h3{
 .szinlabel {
     color: rgb(252, 46, 46);
     font-family: 'Audiowide';
-    font-size: 20px;
+    font-size: 30px;
     margin-top: 20px;
-    margin-left: 284px;
+    margin-left: 295px;
 }
 
 #szin {
     border: 3px solid rgb(0, 27, 11);
     background-color: rgb(192, 192, 192);
-    width: 350px;
+    width: 380px;
     height: 40px;
     font-size: 20px;
     color: rgb(252, 46, 46);
@@ -117,15 +117,15 @@ h3{
 .felszlabel {
     color: rgb(252, 46, 46);
     font-family: 'Audiowide';
-    font-size: 20px;
+    font-size: 30px;
     margin-top: 20px;
-    margin-left: 180px;
+    margin-left: 140px;
 }
 
 #felsz {
     border: 3px solid rgb(0, 27, 11);
     background-color: rgb(192, 192, 192);
-    width: 350px;
+    width: 380px;
     height: 40px;
     font-size: 20px;
     color: rgb(252, 46, 46);
@@ -136,9 +136,9 @@ h3{
     background-color: rgb(192, 192, 192);
     color: rgb(252, 46, 46);
     font-family: 'Audiowide';
-    font-size: 23px;
-    margin-top: 25px;
-    margin-left: 462px;
+    font-size: 30px;
+    margin-top: 50px;
+    margin-left: 485px;
 }
 
 .jobbdoboz {
