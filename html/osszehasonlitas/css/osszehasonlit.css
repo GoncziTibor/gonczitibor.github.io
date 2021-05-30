@@ -186,3 +186,9 @@ h1{
     width: 810px;
     height: 410px;
 }
+
+.lablec{
+    position: relative;
+    bottom: -50px;
+    color: aliceblue;
+}
