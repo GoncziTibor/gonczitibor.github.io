@@ -51,6 +51,7 @@ h1{
 
 .markalabel{
     color: rgb(252, 46, 46);
+    text-shadow: 2px 5px 5px black;
     font-family: 'Audiowide';
     font-size: 20px;
     margin-left: 300px;
@@ -66,6 +67,7 @@ h1{
 }
 .tipuslabel{
     color: rgb(252, 46, 46);
+    text-shadow: 2px 5px 5px black;
     font-family: 'Audiowide';
     font-size: 20px;
     margin-top: 20px;
@@ -81,6 +83,7 @@ h1{
 }
 .idopontlabel{
     color: rgb(252, 46, 46);
+    text-shadow: 2px 5px 5px black;
     font-family: 'Audiowide';
     font-size: 20px;
     margin-top: 20px;
@@ -96,6 +99,7 @@ h1{
 }
 .nevlabel{
     color: rgb(252, 46, 46);
+    text-shadow: 2px 5px 5px black;
     font-family: 'Audiowide';
     font-size: 20px;
     margin-top: 20px;
@@ -111,6 +115,7 @@ h1{
 }
 .emaillabel{
     color: rgb(252, 46, 46);
+    text-shadow: 2px 5px 5px black;
     font-family: 'Audiowide';
     font-size: 20px;
     margin-top: 20px;
@@ -126,6 +131,7 @@ h1{
 }
 .telefonlabel{
     color: rgb(252, 46, 46);
+    text-shadow: 2px 5px 5px black;
     font-family: 'Audiowide';
     font-size: 20px;
     margin-top: 20px;
@@ -141,6 +147,7 @@ h1{
 }
 .vanejogsilabel{
     color: rgb(252, 46, 46);
+    text-shadow: 2px 5px 5px black;
     font-family: 'Audiowide';
     font-size: 20px;
     margin-top: 20px;
@@ -156,6 +163,7 @@ h1{
 }
 .jogositvanylabel{
     color: rgb(252, 46, 46);
+    text-shadow: 2px 5px 5px black;
     font-family: 'Audiowide';
     font-size: 20px;
     margin-top: 20px;
@@ -171,6 +179,7 @@ h1{
 }
 .autoszalonlabel{
     color: rgb(252, 46, 46);
+    text-shadow: 2px 5px 5px black;
     font-family: 'Audiowide';
     font-size: 20px;
     margin-top: 20px;
@@ -186,6 +195,7 @@ h1{
 }
 #gomb{
     border: 3px solid rgb(0, 27, 11);
+    text-shadow: 2px 5px 5px black;
     background-color: rgb(192, 192, 192);
     color: rgb(252, 46, 46);
     font-family: 'Audiowide';
