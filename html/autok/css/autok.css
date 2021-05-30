@@ -27,7 +27,18 @@ h1 {
     color: aliceblue;
     font-family: 'Audiowide';
     text-shadow: 5px 5px 5px black;
+}
 
+h2{
+    color: aliceblue;
+    font-family: 'Audiowide';
+    text-shadow: 5px 5px 5px rgb(241, 8, 8);
+}
+
+h3{
+    color: aliceblue;
+    font-family: 'Audiwide';
+    text-shadow: 5px 5px 5px rgb(241, 8, 8);
 }
 
 .szoveg {
@@ -139,12 +150,37 @@ h1 {
 }
 
 .alsodoboz{
-    background-color: violet;
+    background-image: linear-gradient(to right, black , red);
     position: relative;
     width: 1720px;
     height: 670px;
     margin-top: 50px;
     margin-left: 100px;
+}
+
+.motor{
+    color: aliceblue;
+    text-shadow: 5px 5px 5px black;
+}
+
+.teljesitmeny{
+    color: aliceblue;
+    text-shadow: 5px 5px 5px black;
+}
+
+.gyorsulas{
+    color: aliceblue;
+    text-shadow: 5px 5px 5px black;
+}
+
+.vegsebesseg{
+    color: aliceblue;
+    text-shadow: 5px 5px 5px black;
+}
+
+.fogyasztas{
+    color: aliceblue;
+    text-shadow: 5px 5px 5px black;
 }
 
 .flip-card {
@@ -153,6 +189,7 @@ h1 {
     height: 270px;
     perspective: 1000px;
   }
+
 
   #elso{
     margin-left: 36px;
@@ -228,8 +265,8 @@ h1 {
   
   .flip-card-front, .flip-card-back {
     position: absolute;
-    width: 100%;
-    height: 100%;
+    width: 300px;
+    height: 300px;
     -webkit-backface-visibility: hidden;
     backface-visibility: hidden;
   }
@@ -240,7 +277,7 @@ h1 {
   }
   
   .flip-card-back {
-    background-color: #2980b9;
+    background-image: linear-gradient(to right, black , grey);
     color: white;
     transform: rotateY(180deg);
   }
