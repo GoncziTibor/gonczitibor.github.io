@@ -158,7 +158,6 @@ h1{
 }
 .balkep{
     position: relative;
-    background-color: white;
     margin-left: 50px;
     top: 20px;
     width: 810px;
@@ -166,7 +165,6 @@ h1{
 }
 .jobbkep{
     position: relative;
-    background-color: white;
     margin-left: 960px;
     margin-top: -480px;
     width: 810px;

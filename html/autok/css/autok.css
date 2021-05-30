@@ -148,6 +148,23 @@ h3{
     width: 620px;
     top: 264px;
 }
+.vegeszoveg{
+    color: aliceblue;
+    font-size: 25px;
+    text-align: center;
+    font-family: 'Trinong';
+    text-shadow: 5px 5px 5px rgb(207, 83, 83);
+    padding-top: 120px;
+}
+
+.kep{
+    position: relative;
+    background-color: white;
+    margin-left: 20px;
+    margin-top: 20px;
+    width: 580px;
+    height: 400px;
+}
 
 .alsodoboz{
     background-image: linear-gradient(to right, black , red);
