@@ -1,8 +1,134 @@
 @import url('https://fonts.googleapis.com/css?family=Audiowide|outline|Trirong');
 
-body{
-    background-color: grey;
+body {
+    background-image: radial-gradient(circle, black, white);
 }
-h1{
+
+.navbar{
+    background-image: linear-gradient(to bottom, black , red);
+}
+
+#cim {
+    font-size: 36px;
+    font-family: 'Audiowide';
+    color: aliceblue;
+}
+
+.kereses {
+    width: 60px;
+    height: 60px;
+    display: block;
+    align-items: top;
+    margin-left: 915px;
+}
+
+h1 {
     text-align: center;
+    color: aliceblue;
+    font-family: 'Audiowide';
+    text-shadow: 5px 5px 5px black;
+
+}
+
+.szoveg {
+    text-align: center;
+    color: aliceblue;
+    font-family: 'Trirong';
+    font-size: 25px;
+    text-shadow: 5px 5px 5px black;
+}
+
+.elsodoboz {
+    margin-left: 25%;
+    width: 1000px;
+    height: 800px;
+    border: 1px solid black;
+}
+
+#c220d {
+    width: 800px;
+}
+
+
+.fodoboz {
+    display: flex;
+}
+
+.baldoboz {
+    background-image: linear-gradient(to right, black , red);
+    float: left;
+    height: 600px;
+    width: 1000px;
+    top: 5px;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+.markalabel {
+    color: rgb(252, 46, 46);
+    font-family: 'Audiowide';
+    font-size: 20px;
+    margin-left: 260px;
+    margin-top: 200px;
+}
+
+#marka {
+    border: 3px solid rgb(0, 27, 11);
+    background-color: rgb(192, 192, 192);
+    width: 350px;
+    height: 40px;
+    font-size: 20px;
+    color: rgb(252, 46, 46);
+}
+
+.tipuslabel {
+    color: rgb(252, 46, 46);
+    font-family: 'Audiowide';
+    font-size: 20px;
+    margin-top: 20px;
+    margin-left: 270px;
+}
+
+#tipus {
+    border: 3px solid rgb(0, 27, 11);
+    background-color: rgb(192, 192, 192);
+    width: 350px;
+    height: 40px;
+    font-size: 20px;
+    color: rgb(252, 46, 46);
+}
+
+.szinlabel {
+    color: rgb(252, 46, 46);
+    font-family: 'Audiowide';
+    font-size: 20px;
+    margin-top: 20px;
+    margin-left: 284px;
+}
+
+#szin {
+    border: 3px solid rgb(0, 27, 11);
+    background-color: rgb(192, 192, 192);
+    width: 350px;
+    height: 40px;
+    font-size: 20px;
+    color: rgb(252, 46, 46);
+}
+
+#gomb {
+    border: 3px solid rgb(0, 27, 11);
+    background-color: rgb(192, 192, 192);
+    color: rgb(252, 46, 46);
+    font-family: 'Audiowide';
+    font-size: 23px;
+    margin-top: 25px;
+    margin-left: 462px;
+}
+
+.jobbdoboz {
+    background-image: url(../images/Többi_kép/ezgif.com-gif-maker.gif);
+    float: right;
+    height: 600px;
+    width: 620px;
+    top: 264px;
 }
