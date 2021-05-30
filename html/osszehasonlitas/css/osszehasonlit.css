@@ -1,9 +1,158 @@
 @import url('https://fonts.googleapis.com/css?family=Audiowide|outline|Trirong');
 
 body{
-    background-color: grey;
+    background-image: linear-gradient(to bottom, black,  grey);
+}
+
+.navbar{
+    background-image: radial-gradient(circle, black,  grey, red);
+}
+
+#cim{
+    font-size: 36px;
+    font-family: 'Audiowide';
+    color: aliceblue;
+    text-shadow: 5px 5px 5px black;
+}
+
+.toltes{
+    width: 135px;
+    height: 75px;
+    display: block;
+    align-items: top;
+    margin-left: 880px;
 }
 
 h1{
     text-align: center;
+    color: aliceblue;
+    font-family: 'Audiowide';
+    text-shadow: 5px 5px 5px black;
+    
+}
+
+.szoveg{
+    text-align: center;
+    color: aliceblue;
+    font-family: 'Trirong';
+    font-size: 25px;
+    text-shadow: 5px 5px 5px black;
+}
+
+.fodoboz{
+    background-image: linear-gradient(to bottom, black , red);
+    position: relative;
+    margin-left: 50px;
+    width: 1820px;
+    height: 300px;
+}
+.bal{
+    position: relative;
+    width: 606px;
+    height: 244px;
+}
+.markalabel1{
+    color: rgb(252, 46, 46);
+    font-family: 'Audiowide';
+    text-shadow: 2px 5px 5px black;
+    font-size: 30px;
+    margin-top: 40px;
+    margin-left: 38px;
+}
+#marka1{
+    border: 3px solid rgb(0, 27, 11);
+    background-color: rgb(192, 192, 192);
+    color: rgb(252, 46, 46);
+    font-family: 'Audiowide';
+    font-size: 30px;
+    width: 430px;
+    height: 70px;
+}
+.tipuslabel1{
+    color: rgb(252, 46, 46);
+    font-family: 'Audiowide';
+    text-shadow: 2px 5px 5px black;
+    font-size: 30px;
+    margin-top: 50px;
+    margin-left: 52px;
+}
+#tipus1{
+    border: 3px solid rgb(0, 27, 11);
+    background-color: rgb(192, 192, 192);
+    color: rgb(252, 46, 46);
+    font-family: 'Audiowide';
+    font-size: 23px;
+    width: 430px;
+    height: 70px;
+}
+
+
+.kozep{
+    position: relative;
+    margin-left: 606px;
+    width: 606px;
+    height: 245px;
+    margin-top: -245px;
+}
+#gomb{
+    border: 3px solid rgb(0, 27, 11);
+    background-color: rgb(192, 192, 192);
+    color: rgb(252, 46, 46);
+    text-shadow: 2px 5px 5px black;
+    font-family: 'Audiowide';
+    font-size: 23px;
+    margin-top: 105px;
+    margin-left: 210px;
+}
+
+.jobb{
+    position: relative;
+    margin-left: 1212px;
+    width: 607px;
+    height: 245px;
+    margin-top: -245px;
+}
+.markalabel2{
+    color: rgb(252, 46, 46);
+    text-shadow: 2px 5px 5px black;
+    font-family: 'Audiowide';
+    font-size: 30px;
+    margin-top: 40px;
+    margin-left: 3px;
+}
+#marka2{
+    border: 3px solid rgb(0, 27, 11);
+    background-color: rgb(192, 192, 192);
+    color: rgb(252, 46, 46);
+    font-family: 'Audiowide';
+    font-size: 30px;
+    width: 430px;
+    height: 70px;
+}
+.tipuslabel2{
+    color: rgb(252, 46, 46);
+    text-shadow: 2px 5px 5px black;
+    font-family: 'Audiowide';
+    font-size: 30px;
+    margin-top: 50px;
+    margin-left: 17px;
+}
+#tipus2{
+    border: 3px solid rgb(0, 27, 11);
+    background-color: rgb(192, 192, 192);
+    color: rgb(252, 46, 46);
+    font-family: 'Audiowide';
+    font-size: 23px;
+    width: 430px;
+    height: 70px;
+}
+
+
+.lista{
+    background-color: blue;
+    position: relative;
+    margin-left: 50px;
+    margin-top: 20px;
+    width: 1820px;
+    height: 800px;
 }
