@@ -4,8 +4,8 @@ body {
     background-image: radial-gradient(circle, black, white);
 }
 
-.navbar{
-    background-image: linear-gradient(to bottom, black , red);
+.navbar {
+    background-image: linear-gradient(to bottom, black, red);
 }
 
 #cim {
@@ -29,13 +29,13 @@ h1 {
     text-shadow: 5px 5px 5px black;
 }
 
-h2{
+h2 {
     color: aliceblue;
     font-family: 'Audiowide';
     text-shadow: 5px 5px 5px rgb(241, 8, 8);
 }
 
-h3{
+h3 {
     color: aliceblue;
     font-family: 'Audiwide';
     text-shadow: 5px 5px 5px rgb(241, 8, 8);
@@ -54,7 +54,7 @@ h3{
 }
 
 .baldoboz {
-    background-image: linear-gradient(to right, black , red);
+    background-image: linear-gradient(to right, black, red);
     float: left;
     height: 600px;
     width: 1000px;
@@ -157,7 +157,8 @@ h3{
     width: 620px;
     top: 264px;
 }
-.vegeszoveg{
+
+.vegeszoveg {
     color: aliceblue;
     font-size: 25px;
     text-align: center;
@@ -166,7 +167,7 @@ h3{
     padding-top: 120px;
 }
 
-.kep{
+.kep {
     position: relative;
     background-color: white;
     margin-left: 20px;
@@ -175,8 +176,8 @@ h3{
     height: 400px;
 }
 
-.alsodoboz{
-    background-image: linear-gradient(to right, black , red);
+.alsodoboz {
+    background-image: linear-gradient(to right, black, red);
     position: relative;
     width: 1720px;
     height: 670px;
@@ -184,27 +185,27 @@ h3{
     margin-left: 100px;
 }
 
-.motor{
+.motor {
     color: aliceblue;
     text-shadow: 5px 5px 5px black;
 }
 
-.teljesitmeny{
+.teljesitmeny {
     color: aliceblue;
     text-shadow: 5px 5px 5px black;
 }
 
-.gyorsulas{
+.gyorsulas {
     color: aliceblue;
     text-shadow: 5px 5px 5px black;
 }
 
-.vegsebesseg{
+.vegsebesseg {
     color: aliceblue;
     text-shadow: 5px 5px 5px black;
 }
 
-.fogyasztas{
+.fogyasztas {
     color: aliceblue;
     text-shadow: 5px 5px 5px black;
 }
@@ -214,97 +215,98 @@ h3{
     width: 300px;
     height: 270px;
     perspective: 1000px;
-  }
+}
 
 
-  #elso{
+#elso {
     margin-left: 36px;
     padding-top: 20px;
-  }
+}
 
-  #masodik{
-      margin-left: 372px;
-      margin-top: -250px;
-      position: relative;
-  }
-  
-  #harmadik{
+#masodik {
+    margin-left: 372px;
+    margin-top: -250px;
+    position: relative;
+}
+
+#harmadik {
     margin-left: 708px;
     margin-top: -270px;
     position: relative;
-  }
+}
 
-  #negyedik{
+#negyedik {
     margin-left: 1044px;
     margin-top: -270px;
     position: relative;
-  }
+}
 
- #ötödik{
+#ötödik {
     margin-left: 1380px;
     margin-top: -270px;
     position: relative;
-  }
+}
 
-  #hatodik{
-      margin-left: 36px;
-      position: relative;
-      padding-top: 60px;
-  }
+#hatodik {
+    margin-left: 36px;
+    position: relative;
+    padding-top: 60px;
+}
 
-  #hetedik{
+#hetedik {
     margin-left: 372px;
     position: relative;
     margin-top: -210px;
-  }
+}
 
-  #nyolcadik{
+#nyolcadik {
     margin-left: 708px;
     position: relative;
     margin-top: -270px;
-  }
+}
 
-  #kilencedik{
+#kilencedik {
     margin-left: 1044px;
     position: relative;
     margin-top: -270px;
-  }
+}
 
-  #tizedik{
+#tizedik {
     margin-left: 1380px;
     position: relative;
     margin-top: -270px;
-  }
-  .flip-card-inner {
+}
+
+.flip-card-inner {
     position: relative;
     width: 100%;
     height: 100%;
     text-align: center;
     transition: transform 0.6s;
     transform-style: preserve-3d;
-    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
-  }
-  
-  .flip-card:hover .flip-card-inner {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+}
+
+.flip-card:hover .flip-card-inner {
     transform: rotateY(180deg);
-  }
-  
-  .flip-card-front, .flip-card-back {
+}
+
+.flip-card-front,
+.flip-card-back {
     position: absolute;
     width: 300px;
     height: 300px;
     -webkit-backface-visibility: hidden;
     backface-visibility: hidden;
-  }
-  
-  .flip-card-front {
+}
+
+.flip-card-front {
     background-color: #bbb;
     color: black;
-  }
-  
-  .flip-card-back {
-    background-image: linear-gradient(to right, black , grey);
+}
+
+.flip-card-back {
+    background-image: linear-gradient(to right, black, grey);
     color: white;
     transform: rotateY(180deg);
-  }
-
+}

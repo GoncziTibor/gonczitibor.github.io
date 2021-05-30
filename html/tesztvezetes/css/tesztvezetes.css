@@ -1,36 +1,37 @@
 @import url('https://fonts.googleapis.com/css?family=Audiowide|outline|Trirong');
 
-body{
+body {
     background-image: url(../images/sun.gif);
 }
 
-.navbar{
+.navbar {
     background-color: rgb(175, 83, 92);
 }
 
-#cim{
+#cim {
     font-size: 36px;
     font-family: 'Audiowide';
     color: aliceblue;
     text-shadow: 5px 5px 5px black;
 }
 
-.kerek{
+.kerek {
     width: 45px;
     height: 45px;
     display: block;
     align-items: top;
     margin-left: 940px;
 }
-h1{
+
+h1 {
     text-align: center;
     color: aliceblue;
     font-family: 'Audiowide';
     text-shadow: 5px 5px 5px black;
-    
+
 }
 
-.szoveg{
+.szoveg {
     text-align: center;
     color: aliceblue;
     font-family: 'Trirong';
@@ -38,7 +39,7 @@ h1{
     text-shadow: 5px 5px 5px black;
 }
 
-.fodoboz{
+.fodoboz {
     background-image: url(../images/audi_merci.jpg);
     background-color: aliceblue;
     float: left;
@@ -50,7 +51,7 @@ h1{
 }
 
 
-.markalabel{
+.markalabel {
     color: rgb(252, 46, 46);
     text-shadow: 2px 5px 5px black;
     font-family: 'Audiowide';
@@ -58,7 +59,8 @@ h1{
     margin-left: 300px;
     margin-top: 20px;
 }
-#marka{
+
+#marka {
     border: 3px solid rgb(0, 27, 11);
     background-color: rgb(192, 192, 192);
     width: 350px;
@@ -66,7 +68,8 @@ h1{
     font-size: 20px;
     color: rgb(252, 46, 46);
 }
-.tipuslabel{
+
+.tipuslabel {
     color: rgb(252, 46, 46);
     text-shadow: 2px 5px 5px black;
     font-family: 'Audiowide';
@@ -74,7 +77,8 @@ h1{
     margin-top: 20px;
     margin-left: 310px;
 }
-#tipus{
+
+#tipus {
     border: 3px solid rgb(0, 27, 11);
     background-color: rgb(192, 192, 192);
     width: 350px;
@@ -82,7 +86,8 @@ h1{
     font-size: 20px;
     color: rgb(252, 46, 46);
 }
-.idopontlabel{
+
+.idopontlabel {
     color: rgb(252, 46, 46);
     text-shadow: 2px 5px 5px black;
     font-family: 'Audiowide';
@@ -90,7 +95,8 @@ h1{
     margin-top: 20px;
     margin-left: 284px;
 }
-#idopont{
+
+#idopont {
     border: 3px solid rgb(0, 27, 11);
     background-color: rgb(192, 192, 192);
     width: 350px;
@@ -98,7 +104,8 @@ h1{
     font-size: 20px;
     color: rgb(252, 46, 46);
 }
-.nevlabel{
+
+.nevlabel {
     color: rgb(252, 46, 46);
     text-shadow: 2px 5px 5px black;
     font-family: 'Audiowide';
@@ -106,7 +113,8 @@ h1{
     margin-top: 20px;
     margin-left: 243px;
 }
-#nev{
+
+#nev {
     border: 3px solid rgb(0, 27, 11);
     background-color: rgb(192, 192, 192);
     width: 350px;
@@ -114,7 +122,8 @@ h1{
     color: rgb(252, 46, 46);
     font-size: 20px;
 }
-.emaillabel{
+
+.emaillabel {
     color: rgb(252, 46, 46);
     text-shadow: 2px 5px 5px black;
     font-family: 'Audiowide';
@@ -122,7 +131,8 @@ h1{
     margin-top: 20px;
     margin-left: 313px;
 }
-#email{
+
+#email {
     border: 3px solid rgb(0, 27, 11);
     background-color: rgb(192, 192, 192);
     width: 350px;
@@ -130,7 +140,8 @@ h1{
     color: rgb(252, 46, 46);
     font-size: 20px;
 }
-.telefonlabel{
+
+.telefonlabel {
     color: rgb(252, 46, 46);
     text-shadow: 2px 5px 5px black;
     font-family: 'Audiowide';
@@ -138,7 +149,8 @@ h1{
     margin-top: 20px;
     margin-left: 231px;
 }
-#telefonszam{
+
+#telefonszam {
     border: 3px solid rgb(0, 27, 11);
     background-color: rgb(192, 192, 192);
     width: 350px;
@@ -146,7 +158,8 @@ h1{
     color: rgb(252, 46, 46);
     font-size: 20px;
 }
-.vanejogsilabel{
+
+.vanejogsilabel {
     color: rgb(252, 46, 46);
     text-shadow: 2px 5px 5px black;
     font-family: 'Audiowide';
@@ -154,7 +167,8 @@ h1{
     margin-top: 20px;
     margin-left: 157px;
 }
-#vanejogsi{
+
+#vanejogsi {
     border: 3px solid rgb(0, 27, 11);
     background-color: rgb(192, 192, 192);
     width: 350px;
@@ -162,7 +176,8 @@ h1{
     color: rgb(252, 46, 46);
     font-size: 20px;
 }
-.jogositvanylabel{
+
+.jogositvanylabel {
     color: rgb(252, 46, 46);
     text-shadow: 2px 5px 5px black;
     font-family: 'Audiowide';
@@ -170,7 +185,8 @@ h1{
     margin-top: 20px;
     margin-left: 157px;
 }
-#jogositvany{
+
+#jogositvany {
     border: 3px solid rgb(0, 27, 11);
     background-color: rgb(192, 192, 192);
     width: 350px;
@@ -178,7 +194,8 @@ h1{
     color: rgb(252, 46, 46);
     font-size: 20px;
 }
-.autoszalonlabel{
+
+.autoszalonlabel {
     color: rgb(252, 46, 46);
     text-shadow: 2px 5px 5px black;
     font-family: 'Audiowide';
@@ -186,7 +203,8 @@ h1{
     margin-top: 20px;
     margin-left: 242px;
 }
-#autoszalon{
+
+#autoszalon {
     border: 3px solid rgb(0, 27, 11);
     background-color: rgb(192, 192, 192);
     width: 350px;
@@ -194,7 +212,8 @@ h1{
     color: rgb(252, 46, 46);
     font-size: 20px;
 }
-#gomb{
+
+#gomb {
     border: 3px solid rgb(0, 27, 11);
     text-shadow: 2px 5px 5px black;
     background-color: rgb(192, 192, 192);
@@ -204,9 +223,9 @@ h1{
     margin-top: 25px;
     margin-left: 480px;
 }
-    
 
-.mellekdoboz{
+
+.mellekdoboz {
     background-image: url(../images/tolto.gif);
     float: right;
     height: 600px;
@@ -215,7 +234,7 @@ h1{
     margin-right: 100px;
 }
 
-.vegeszoveg{
+.vegeszoveg {
     color: aliceblue;
     font-size: 25px;
     text-align: center;
@@ -224,11 +243,10 @@ h1{
     padding-top: 120px;
 }
 
-.kep{
+.kep {
     position: relative;
     margin-left: 20px;
     margin-top: 20px;
     width: 580px;
     height: 400px;
 }
-

@@ -1,21 +1,21 @@
 @import url('https://fonts.googleapis.com/css?family=Audiowide|outline|Trirong');
 
-body{
-    background-image: linear-gradient(to bottom, black,  grey);
+body {
+    background-image: linear-gradient(to bottom, black, grey);
 }
 
-.navbar{
-    background-image: radial-gradient(circle, black,  grey, red);
+.navbar {
+    background-image: radial-gradient(circle, black, grey, red);
 }
 
-#cim{
+#cim {
     font-size: 36px;
     font-family: 'Audiowide';
     color: aliceblue;
     text-shadow: 5px 5px 5px black;
 }
 
-.toltes{
+.toltes {
     width: 135px;
     height: 75px;
     display: block;
@@ -23,15 +23,15 @@ body{
     margin-left: 880px;
 }
 
-h1{
+h1 {
     text-align: center;
     color: aliceblue;
     font-family: 'Audiowide';
     text-shadow: 5px 5px 5px black;
-    
+
 }
 
-.szoveg{
+.szoveg {
     text-align: center;
     color: aliceblue;
     font-family: 'Trirong';
@@ -39,19 +39,21 @@ h1{
     text-shadow: 5px 5px 5px black;
 }
 
-.fodoboz{
-    background-image: linear-gradient(to bottom, black , red);
+.fodoboz {
+    background-image: linear-gradient(to bottom, black, red);
     position: relative;
     margin-left: 50px;
     width: 1820px;
     height: 300px;
 }
-.bal{
+
+.bal {
     position: relative;
     width: 606px;
     height: 244px;
 }
-.markalabel1{
+
+.markalabel1 {
     color: rgb(252, 46, 46);
     font-family: 'Audiowide';
     text-shadow: 2px 5px 5px black;
@@ -59,7 +61,8 @@ h1{
     margin-top: 40px;
     margin-left: 38px;
 }
-#marka1{
+
+#marka1 {
     border: 3px solid rgb(0, 27, 11);
     background-color: rgb(192, 192, 192);
     color: rgb(252, 46, 46);
@@ -68,7 +71,8 @@ h1{
     width: 430px;
     height: 70px;
 }
-.tipuslabel1{
+
+.tipuslabel1 {
     color: rgb(252, 46, 46);
     font-family: 'Audiowide';
     text-shadow: 2px 5px 5px black;
@@ -76,7 +80,8 @@ h1{
     margin-top: 50px;
     margin-left: 52px;
 }
-#tipus1{
+
+#tipus1 {
     border: 3px solid rgb(0, 27, 11);
     background-color: rgb(192, 192, 192);
     color: rgb(252, 46, 46);
@@ -87,14 +92,15 @@ h1{
 }
 
 
-.kozep{
+.kozep {
     position: relative;
     margin-left: 606px;
     width: 606px;
     height: 245px;
     margin-top: -245px;
 }
-#gomb{
+
+#gomb {
     border: 3px solid rgb(0, 27, 11);
     background-color: rgb(192, 192, 192);
     color: rgb(252, 46, 46);
@@ -105,14 +111,15 @@ h1{
     margin-left: 210px;
 }
 
-.jobb{
+.jobb {
     position: relative;
     margin-left: 1212px;
     width: 607px;
     height: 245px;
     margin-top: -245px;
 }
-.markalabel2{
+
+.markalabel2 {
     color: rgb(252, 46, 46);
     text-shadow: 2px 5px 5px black;
     font-family: 'Audiowide';
@@ -120,7 +127,8 @@ h1{
     margin-top: 40px;
     margin-left: 3px;
 }
-#marka2{
+
+#marka2 {
     border: 3px solid rgb(0, 27, 11);
     background-color: rgb(192, 192, 192);
     color: rgb(252, 46, 46);
@@ -129,7 +137,8 @@ h1{
     width: 430px;
     height: 70px;
 }
-.tipuslabel2{
+
+.tipuslabel2 {
     color: rgb(252, 46, 46);
     text-shadow: 2px 5px 5px black;
     font-family: 'Audiowide';
@@ -137,7 +146,8 @@ h1{
     margin-top: 50px;
     margin-left: 17px;
 }
-#tipus2{
+
+#tipus2 {
     border: 3px solid rgb(0, 27, 11);
     background-color: rgb(192, 192, 192);
     color: rgb(252, 46, 46);
@@ -148,42 +158,45 @@ h1{
 }
 
 
-.lista{
-    background-image: linear-gradient(to bottom, black , red);
+.lista {
+    background-image: linear-gradient(to bottom, black, red);
     position: relative;
     margin-left: 50px;
     margin-top: 20px;
     width: 1820px;
     height: 1000px;
 }
-.balkep{
+
+.balkep {
     position: relative;
     margin-left: 50px;
     top: 20px;
     width: 810px;
     height: 500px;
 }
-.jobbkep{
+
+.jobbkep {
     position: relative;
     margin-left: 960px;
     margin-top: -480px;
     width: 810px;
     height: 500px;
 }
-.ballista{
+
+.ballista {
     position: relative;
-    background-image: linear-gradient(to bottom, black , grey);
+    background-image: linear-gradient(to bottom, black, grey);
     margin-left: 50px;
     margin-top: 50px;
     width: 810px;
     height: 410px;
 }
-.jobblista{
+
+.jobblista {
     position: relative;
-    background-image: linear-gradient(to bottom, black , grey);
+    background-image: linear-gradient(to bottom, black, grey);
     margin-left: 960px;
     margin-top: -410px;
     width: 810px;
     height: 410px;
 }
-
