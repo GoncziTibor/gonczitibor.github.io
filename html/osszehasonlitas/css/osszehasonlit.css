@@ -149,10 +149,42 @@ h1{
 
 
 .lista{
-    background-color: blue;
+    background-image: linear-gradient(to bottom, black , red);
     position: relative;
     margin-left: 50px;
     margin-top: 20px;
     width: 1820px;
-    height: 800px;
+    height: 1000px;
+}
+.balkep{
+    position: relative;
+    background-color: white;
+    margin-left: 50px;
+    top: 20px;
+    width: 810px;
+    height: 500px;
+}
+.jobbkep{
+    position: relative;
+    background-color: white;
+    margin-left: 960px;
+    margin-top: -480px;
+    width: 810px;
+    height: 500px;
+}
+.ballista{
+    position: relative;
+    background-color: white;
+    margin-left: 50px;
+    margin-top: 50px;
+    width: 810px;
+    height: 410px;
+}
+.jobblista{
+    position: relative;
+    background-color: white;
+    margin-left: 960px;
+    margin-top: -410px;
+    width: 810px;
+    height: 410px;
 }
