@@ -172,7 +172,7 @@ h1{
 }
 .ballista{
     position: relative;
-    background-color: white;
+    background-image: linear-gradient(to bottom, black , grey);
     margin-left: 50px;
     margin-top: 50px;
     width: 810px;
@@ -180,7 +180,7 @@ h1{
 }
 .jobblista{
     position: relative;
-    background-color: white;
+    background-image: linear-gradient(to bottom, black , grey);
     margin-left: 960px;
     margin-top: -410px;
     width: 810px;
