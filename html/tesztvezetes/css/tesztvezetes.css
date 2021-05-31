@@ -49,8 +49,6 @@ h1 {
     margin-left: 100px;
     margin-right: 50px;
 }
-
-
 .markalabel {
     color: rgb(252, 46, 46);
     text-shadow: 2px 5px 5px black;
@@ -59,7 +57,6 @@ h1 {
     margin-left: 300px;
     margin-top: 20px;
 }
-
 #marka {
     border: 3px solid rgb(0, 27, 11);
     background-color: rgb(192, 192, 192);
@@ -68,7 +65,6 @@ h1 {
     font-size: 20px;
     color: rgb(252, 46, 46);
 }
-
 .tipuslabel {
     color: rgb(252, 46, 46);
     text-shadow: 2px 5px 5px black;
@@ -77,7 +73,6 @@ h1 {
     margin-top: 20px;
     margin-left: 310px;
 }
-
 #tipus {
     border: 3px solid rgb(0, 27, 11);
     background-color: rgb(192, 192, 192);
@@ -86,7 +81,6 @@ h1 {
     font-size: 20px;
     color: rgb(252, 46, 46);
 }
-
 .idopontlabel {
     color: rgb(252, 46, 46);
     text-shadow: 2px 5px 5px black;
@@ -95,7 +89,6 @@ h1 {
     margin-top: 20px;
     margin-left: 284px;
 }
-
 #idopont {
     border: 3px solid rgb(0, 27, 11);
     background-color: rgb(192, 192, 192);
@@ -104,7 +97,6 @@ h1 {
     font-size: 20px;
     color: rgb(252, 46, 46);
 }
-
 .nevlabel {
     color: rgb(252, 46, 46);
     text-shadow: 2px 5px 5px black;
@@ -113,7 +105,6 @@ h1 {
     margin-top: 20px;
     margin-left: 243px;
 }
-
 #nev {
     border: 3px solid rgb(0, 27, 11);
     background-color: rgb(192, 192, 192);
@@ -122,7 +113,6 @@ h1 {
     color: rgb(252, 46, 46);
     font-size: 20px;
 }
-
 .emaillabel {
     color: rgb(252, 46, 46);
     text-shadow: 2px 5px 5px black;
@@ -131,7 +121,6 @@ h1 {
     margin-top: 20px;
     margin-left: 313px;
 }
-
 #email {
     border: 3px solid rgb(0, 27, 11);
     background-color: rgb(192, 192, 192);
@@ -140,7 +129,6 @@ h1 {
     color: rgb(252, 46, 46);
     font-size: 20px;
 }
-
 .telefonlabel {
     color: rgb(252, 46, 46);
     text-shadow: 2px 5px 5px black;
@@ -149,7 +137,6 @@ h1 {
     margin-top: 20px;
     margin-left: 231px;
 }
-
 #telefonszam {
     border: 3px solid rgb(0, 27, 11);
     background-color: rgb(192, 192, 192);
@@ -158,7 +145,6 @@ h1 {
     color: rgb(252, 46, 46);
     font-size: 20px;
 }
-
 .vanejogsilabel {
     color: rgb(252, 46, 46);
     text-shadow: 2px 5px 5px black;
@@ -167,7 +153,6 @@ h1 {
     margin-top: 20px;
     margin-left: 157px;
 }
-
 #vanejogsi {
     border: 3px solid rgb(0, 27, 11);
     background-color: rgb(192, 192, 192);
@@ -176,7 +161,6 @@ h1 {
     color: rgb(252, 46, 46);
     font-size: 20px;
 }
-
 .jogositvanylabel {
     color: rgb(252, 46, 46);
     text-shadow: 2px 5px 5px black;
@@ -185,7 +169,6 @@ h1 {
     margin-top: 20px;
     margin-left: 157px;
 }
-
 #jogositvany {
     border: 3px solid rgb(0, 27, 11);
     background-color: rgb(192, 192, 192);
@@ -194,7 +177,6 @@ h1 {
     color: rgb(252, 46, 46);
     font-size: 20px;
 }
-
 .autoszalonlabel {
     color: rgb(252, 46, 46);
     text-shadow: 2px 5px 5px black;
@@ -203,7 +185,6 @@ h1 {
     margin-top: 20px;
     margin-left: 242px;
 }
-
 #autoszalon {
     border: 3px solid rgb(0, 27, 11);
     background-color: rgb(192, 192, 192);
@@ -212,7 +193,6 @@ h1 {
     color: rgb(252, 46, 46);
     font-size: 20px;
 }
-
 #gomb {
     border: 3px solid rgb(0, 27, 11);
     text-shadow: 2px 5px 5px black;
@@ -233,7 +213,6 @@ h1 {
     top: 264px;
     margin-right: 100px;
 }
-
 .vegeszoveg {
     color: aliceblue;
     font-size: 25px;
@@ -242,7 +221,6 @@ h1 {
     text-shadow: 5px 5px 5px rgb(207, 83, 83);
     padding-top: 120px;
 }
-
 .kep {
     position: relative;
     margin-left: 20px;
