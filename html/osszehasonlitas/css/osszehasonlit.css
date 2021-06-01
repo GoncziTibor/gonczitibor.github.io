@@ -206,3 +206,47 @@ h3{
     font-size: 30px;
     margin-left: 200px;
 }
+
+.motor{
+    color: rgb(252, 46, 46);
+    font-family: 'Audiowide';
+    text-shadow: 2px 5px 5px rgb(250, 245, 245);
+    font-size: 25px;
+    margin-left: 40px;
+    margin-top: 50px;
+}
+
+.teljesitmeny{
+    color: rgb(252, 46, 46);
+    font-family: 'Audiowide';
+    text-shadow: 2px 5px 5px rgb(250, 245, 245);
+    font-size: 25px;
+    margin-left: 40px;
+}
+
+
+.gyorsulas{
+    color: rgb(252, 46, 46);
+    font-family: 'Audiowide';
+    text-shadow: 2px 5px 5px rgb(250, 245, 245);
+    font-size: 25px;
+    margin-left: 40px;
+}
+
+
+.vegsebesseg{
+    color: rgb(252, 46, 46);
+    font-family: 'Audiowide';
+    text-shadow: 2px 5px 5px rgb(250, 245, 245);
+    font-size: 25px;
+    margin-left: 40px;
+}
+
+
+.fogyasztas{
+    color: rgb(252, 46, 46);
+    font-family: 'Audiowide';
+    text-shadow: 2px 5px 5px rgb(250, 245, 245);
+    font-size: 25px;
+    margin-left: 40px;
+}
