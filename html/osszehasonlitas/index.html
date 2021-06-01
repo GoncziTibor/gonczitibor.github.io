@@ -25,7 +25,7 @@
     <div class="fodoboz">
         <h1 class="">Válassz ki egyet-egyet!</h1>
         <div class="bal">
-            <form class="urlap1">
+            <form class="urlap1" name="urlap1">
                 <label for="marka1" class="markalabel1">Márka:</label>
                 <select id="marka1">
                     <option hidden></option>
@@ -33,18 +33,8 @@
                     <option>Audi</option>
                 </select><br>
                 <label for="tipus1" class="tipuslabel1">Típus:</label>
-                <select id="tipus1">
+                <select id="tipus1" >
                     <option hidden></option>
-                    <option>C220d limousine</option>
-                    <option>E300de 4MATIC Plug-in hybrid T-modell</option>
-                    <option>S450 4MATIC Mild hybrid</option>
-                    <option>GLE400d 4MATIC</option>
-                    <option>AMG GT63 4MATIC+</option>
-                    <option>A3 SE 35 TDI limousine</option>
-                    <option>A6 allroad quattro 55 TFSI S tronic</option>
-                    <option>A8L 50 TDI quattro tiptronic</option>
-                    <option>Q7 50 TDI quattro tiptronic</option>
-                    <option>R8 coupé V10 quattro S tronic</option>
                 </select>
             </form>
         </div>
@@ -52,51 +42,42 @@
             <input type="button" id="gomb" value="Összehasonlít"><br>
         </div>
         <div class="jobb">
-            <label for="marka2" class="markalabel2">Márka:</label>
-            <select id="marka2">
-                <option hidden></option>
-                <option>Mercedes-Benz</option>
-                <option>Audi</option>
-            </select><br>
-            <label for="tipus2" class="tipuslabel2">Típus:</label>
-            <select id="tipus2">
-                <option hidden></option>
-                <option>C220d limousine</option>
-                <option>E300de 4MATIC Plug-in hybrid T-modell</option>
-                <option>S450 4MATIC Mild hybrid</option>
-                <option>GLE400d 4MATIC</option>
-                <option>AMG GT63 4MATIC+</option>
-                <option>A3 SE 35 TDI limousine</option>
-                <option>A6 allroad quattro 55 TFSI S tronic</option>
-                <option>A8L 50 TDI quattro tiptronic</option>
-                <option>Q7 50 TDI quattro tiptronic</option>
-                <option>R8 coupé V10 quattro S tronic</option>
-            </select>
+            <form name="urlap2">
+                <label for="marka2" class="markalabel2">Márka:</label>
+                <select id="marka2">
+                    <option hidden></option>
+                    <option>Mercedes-Benz</option>
+                    <option>Audi</option>
+                </select><br>
+                <label for="tipus2" class="tipuslabel2">Típus:</label>
+                <select id="tipus2">
+                    <option hidden></option>
+                </select>
             </form>
         </div>
     </div>
     <div class="lista">
         <div class="balkep">
-            <img src="images/3_kepek/a6.jpg">
+            <img src="images/3_kepek/a6.jpg" id="kep1">
         </div>
         <div class="jobbkep">
-            <img src="images/3_kepek/gl400d.jpg">
+            <img src="images/3_kepek/gl400d.jpg" id="kep2">
         </div>
         <div class="ballista">
             <h3>Tudnivalók a fenti autóról:</h3>
-            <p class="motor">Motor: </p>
-            <p class="teljesitmeny">Teljesitmény: </p>
-            <p class="gyorsulas">Gyorsulás: </p>
-            <p class="vegsebesseg">Végsebesség: </p>
-            <p class="fogyasztas">Fogyasztás: </p>
+            <p class="motor" id="motor1">Motor: </p>
+            <p class="teljesitmeny" id="teljesitmeny1">Teljesitmény: </p>
+            <p class="gyorsulas" id="gyorsulas1">Gyorsulás: </p>
+            <p class="vegsebesseg" id="vegsebesseg1">Végsebesség: </p>
+            <p class="fogyasztas" id="fogyasztas1">Fogyasztás: </p>
         </div>
         <div class="jobblista">
             <h3>Tudnivalók a fenti autóról:</h3>
-            <p class="motor">Motor: </p>
-            <p class="teljesitmeny">Teljesítmény: </p>
-            <p class="gyorsulas">Gyorsulás: </p>
-            <p class="vegsebesseg">Végsebesség: </p>
-            <p class="fogyasztas">Fogyasztás: </p>
+            <p class="motor" id="motor2">Motor: </p>
+            <p class="teljesitmeny" id="teljesitmeny2">Teljesitmény: </p>
+            <p class="gyorsulas" id="gyorsulas2">Gyorsulás: </p>
+            <p class="vegsebesseg" id="vegsebesseg2">Végsebesség: </p>
+            <p class="fogyasztas" id="fogyasztas2">Fogyasztás: </p>
         </div>
     </div>
     <div class="lablec">
@@ -109,6 +90,7 @@
                 </div>
         </footer>
     </div>
+    <script src="js/osszehasonlit.js"></script>
 </body>
 
 </html>
