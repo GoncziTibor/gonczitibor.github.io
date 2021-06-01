@@ -40,6 +40,8 @@ h1 {
 }
 
 .fodoboz {
+    box-shadow: rgba(240, 8, 8, 0.25) 0px 54px 55px, rgba(240, 8, 8, 0.25) 0px -12px 30px, rgba(240, 8, 8, 0.25) 0px 4px 6px, rgba(240, 8, 8, 0.25) 0px 12px 13px, rgba(240, 8, 8, 0.25) 10px 10px 10px;
+    /*https://getcssscan.com/css-box-shadow-examples*/
     background-image: linear-gradient(to bottom, black, red);
     position: relative;
     margin-left: 50px;
@@ -94,6 +96,8 @@ h1 {
     margin-top: -245px;
 }
 #gomb {
+    box-shadow: rgb(7, 7, 7) 0px 54px 55px, rgba(7, 7, 7) 0px -12px 30px, rgba(7, 7, 7) 0px 4px 6px, rgba(7, 7, 7) 0px 12px 13px, rgba(7, 7, 7) 10px 10px 10px;
+    /*https://getcssscan.com/css-box-shadow-examples*/
     border: 3px solid rgb(0, 27, 11);
     background-color: rgb(192, 192, 192);
     color: rgb(252, 46, 46);
@@ -147,6 +151,8 @@ h1 {
 }
 
 .lista {
+    box-shadow: rgba(12, 8, 240, 0.25) 0px 54px 55px, rgba(12, 8, 240, 0.25) 0px -12px 30px, rgba(12, 8, 240, 0.25) 0px 4px 6px, rgba(12, 8, 240, 0.25) 0px 12px 13px, rgba(12, 8, 240, 0.25) 10px 10px 10px;
+    /*https://getcssscan.com/css-box-shadow-examples*/
     background-image: linear-gradient(to bottom, black, red);
     position: relative;
     margin-left: 50px;
@@ -155,6 +161,8 @@ h1 {
     height: 1000px;
 }
 .balkep {
+    box-shadow: rgb(7, 7, 7) 0px 54px 55px, rgba(7, 7, 7) 0px -12px 30px, rgba(7, 7, 7) 0px 4px 6px, rgba(7, 7, 7) 0px 12px 13px, rgba(7, 7, 7) 10px 10px 10px;
+    /*https://getcssscan.com/css-box-shadow-examples*/
     position: relative;
     margin-left: 50px;
     top: 20px;
@@ -162,6 +170,8 @@ h1 {
     height: 500px;
 }
 .jobbkep {
+    box-shadow: rgb(7, 7, 7) 0px 54px 55px, rgba(7, 7, 7) 0px -12px 30px, rgba(7, 7, 7) 0px 4px 6px, rgba(7, 7, 7) 0px 12px 13px, rgba(7, 7, 7) 10px 10px 10px;
+    /*https://getcssscan.com/css-box-shadow-examples*/
     position: relative;
     margin-left: 960px;
     margin-top: -480px;
@@ -169,6 +179,8 @@ h1 {
     height: 500px;
 }
 .ballista {
+    box-shadow: rgb(7, 7, 7) 0px 54px 55px, rgba(7, 7, 7) 0px -12px 30px, rgba(7, 7, 7) 0px 4px 6px, rgba(7, 7, 7) 0px 12px 13px, rgba(7, 7, 7) 10px 10px 10px;
+    /*https://getcssscan.com/css-box-shadow-examples*/
     position: relative;
     background-image: linear-gradient(to bottom, black, grey);
     margin-left: 50px;
@@ -177,6 +189,8 @@ h1 {
     height: 410px;
 }
 .jobblista {
+    box-shadow: rgb(7, 7, 7) 0px 54px 55px, rgba(7, 7, 7) 0px -12px 30px, rgba(7, 7, 7) 0px 4px 6px, rgba(7, 7, 7) 0px 12px 13px, rgba(7, 7, 7) 10px 10px 10px;
+    /*https://getcssscan.com/css-box-shadow-examples*/
     position: relative;
     background-image: linear-gradient(to bottom, black, grey);
     margin-left: 960px;

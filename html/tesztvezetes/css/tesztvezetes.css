@@ -1,11 +1,12 @@
 @import url('https://fonts.googleapis.com/css?family=Audiowide|outline|Trirong');
 
 body {
-    background-image: url(../images/sun.gif);
+    /*background-image: url(../images/sun.gif);*/
+    background-image: radial-gradient(circle, white, black, white);
 }
 
 .navbar {
-    background-color: rgb(175, 83, 92);
+    background-image: linear-gradient(to top, black, red);
 }
 
 #cim {
@@ -40,6 +41,8 @@ h1 {
 }
 
 .fodoboz {
+    box-shadow: rgba(240, 8, 8, 0.25) 0px 54px 55px, rgba(240, 8, 8, 0.25) 0px -12px 30px, rgba(240, 8, 8, 0.25) 0px 4px 6px, rgba(240, 8, 8, 0.25) 0px 12px 13px, rgba(240, 8, 8, 0.25) 10px 10px 10px;
+    /*https://getcssscan.com/css-box-shadow-examples*/
     background-image: url(../images/audi_merci.jpg);
     background-color: aliceblue;
     float: left;
@@ -194,6 +197,8 @@ h1 {
     font-size: 20px;
 }
 #gomb {
+    box-shadow: rgb(7, 7, 7) 0px 54px 55px, rgba(7, 7, 7) 0px -12px 30px, rgba(7, 7, 7) 0px 4px 6px, rgba(7, 7, 7) 0px 12px 13px, rgba(7, 7, 7) 10px 10px 10px;
+    /*https://getcssscan.com/css-box-shadow-examples*/
     border: 3px solid rgb(0, 27, 11);
     text-shadow: 2px 5px 5px black;
     background-color: rgb(192, 192, 192);
@@ -206,6 +211,8 @@ h1 {
 
 
 .mellekdoboz {
+    box-shadow: rgba(240, 8, 8, 0.25) 0px 54px 55px, rgba(240, 8, 8, 0.25) 0px -12px 30px, rgba(240, 8, 8, 0.25) 0px 4px 6px, rgba(240, 8, 8, 0.25) 0px 12px 13px, rgba(240, 8, 8, 0.25) 10px 10px 10px;
+    /*https://getcssscan.com/css-box-shadow-examples*/
     background-image: url(../images/tolto.gif);
     float: right;
     height: 600px;
@@ -222,6 +229,8 @@ h1 {
     padding-top: 120px;
 }
 .kep {
+    box-shadow: rgba(240, 8, 8, 0.25) 0px 54px 55px, rgba(240, 8, 8, 0.25) 0px -12px 30px, rgba(240, 8, 8, 0.25) 0px 4px 6px, rgba(240, 8, 8, 0.25) 0px 12px 13px, rgba(240, 8, 8, 0.25) 10px 10px 10px;
+    /*https://getcssscan.com/css-box-shadow-examples*/
     position: relative;
     margin-left: 20px;
     margin-top: 20px;
