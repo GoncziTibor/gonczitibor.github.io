@@ -198,3 +198,11 @@ h1 {
     width: 810px;
     height: 410px;
 }
+
+h3{
+    color: rgb(252, 46, 46);
+    font-family: 'Audiowide';
+    text-shadow: 2px 5px 5px rgb(250, 245, 245);
+    font-size: 30px;
+    margin-left: 200px;
+}
