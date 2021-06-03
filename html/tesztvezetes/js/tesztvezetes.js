@@ -223,6 +223,7 @@ function kiir(){
         for(let i = 0; i < tipusok.length; i++){
             if(tipusok[i].nev == tipus){
                 $('kep').src = tipusok[i].kep;
+                $('kocsika').innerHTML = 'Sikeres foglalás';
                 $('vegszoveg').innerHTML = 'A további információkat emailben elküldtük.';
             }
         }
